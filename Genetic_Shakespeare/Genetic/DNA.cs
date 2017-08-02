@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Genetic_Shakespeare.Genetic
+namespace GeneticTypewriter.Genetic
 {
     class DNA<T>
     {

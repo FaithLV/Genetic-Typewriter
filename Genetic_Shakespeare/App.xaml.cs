@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Genetic_Shakespeare
+namespace GeneticTypewriter
 {
     /// <summary>
     /// Interaction logic for App.xaml

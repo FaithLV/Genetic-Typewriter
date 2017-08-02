@@ -1,14 +1,11 @@
 ﻿using System;
 using System.Linq;
 using System.Windows;
-using Genetic_Shakespeare.Genetic;
+using GeneticTypewriter.Genetic;
 using System.Windows.Threading;
 
-namespace Genetic_Shakespeare
+namespace GeneticTypewriter
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         string targetString = "No, I'm not from Compton. England is my city!";

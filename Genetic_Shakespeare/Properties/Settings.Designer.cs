@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Genetic_Shakespeare.Properties
+namespace GeneticTypewriter.Properties
 {
 
 
